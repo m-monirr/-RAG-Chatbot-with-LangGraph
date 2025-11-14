@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 RAG Chatbot with LangGraph & Ollama
 
 <div align="center">
@@ -43,3 +44,6 @@ graph LR
 
 ### Project Structure
 
+=======
+# -RAG-Chatbot-with-LangGraph
+>>>>>>> 8124430b5ee275e6a7574c4edfd4db9bc781fcfe

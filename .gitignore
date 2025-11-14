@@ -33,9 +33,8 @@ ENV/
 *.swo
 *~
 
-# Environment variables
-.env.local
-.env.*.local
+# Environment variables - Keep .env but add it to gitignore for security
+.env
 
 # OS
 .DS_Store
@@ -55,3 +54,10 @@ langgraph_data/
 # Temporary files
 *.tmp
 temp/
+
+# Old files to ignore
+config.py
+nodes.py
+graph.py
+main.py
+rag_agent_langgraph.py
