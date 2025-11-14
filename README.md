@@ -153,19 +153,6 @@ CHUNK_OVERLAP=50
 - **FAISS** - Vector similarity search
 - **Python** - Programming language
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📧 Contact
-
-For questions or feedback, please open an issue on GitHub.
-
----
 
 <div align="center">
 Made with ❤️ by m-monirr
